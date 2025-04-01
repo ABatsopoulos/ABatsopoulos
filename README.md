@@ -1,5 +1,5 @@
 Hi, I’m @ABatsopoulos (Athanasios Batsopoulos). <br>
-I’m interested in working on Data Science - Data Analysis field. <br>
+I’m interested in working in Data Science - Data Analysis field. <br>
 I’m currently learning about Data Science and Machine Learning on a Master in Hellenic Open University. <br>
 How to reach me : <br>
 - Email : a.batsopoulos@hotmail.com <br>
